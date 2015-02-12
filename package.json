@@ -1,0 +1,15 @@
+{
+  "name": "demo-refreshing-token",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "*",
+    "spark": "*"
+  },
+  "author": "Zachary Crockett <zachary@spark.io>",
+  "license": "ISC"
+}
